@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Win TV" group-title="Shia Channels",Win TV
+#EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-id="Hadi TV URDU" tvg-logo="https://shiachannel.in/livetv/img/channels/haditv.jpg" group-title="Shia Channels",Ali TV
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="Hidayat TV URDU" tvg-logo="https://shiachannel.in/livetv/img/channels/hidayat.jpg" group-title="Shia Channels",Hidayat TV
+https://stream.wpbond.com/live/hidayat1.m3u8
+#EXTINF:-1 tvg-id="iFilm TV ENGLISH" tvg-logo="https://shiachannel.in/livetv/img/channels/ifilm-en.jpg" group-title="Shia Channels",Hidayat TV
+https://live1.presstv.ir/live/ifilmen.m3u8
