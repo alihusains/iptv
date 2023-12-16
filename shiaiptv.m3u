@@ -13,5 +13,28 @@ https://stream.wpbond.com/live/hidayat1.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="Shia Channels", S2 Press TV News
 https://live3.presstv.ir/presstv/index.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://i.imgur.com/xsj8KHj.png" group-title="News",Press TV French (1080p)
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://i.imgur.com/xsj8KHj.png" group-title="News",Press TV French
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HadiTv.co.uk" tvg-logo="https://shialivetv.com/shialive/assets/img/Hadi-TV1.jpg" group-title="Shia Channels",Hadi TV UK
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="HadiTv.co.uk" tvg-logo="https://shialivetv.com/shialive/assets/img/dua.jpg" group-title="Shia Channels",Dua Channel UK
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="al-mahdi.tv" tvg-logo="https://shialivetv.com/shialive/assets/img/almahdipak.jpg" group-title="Shia Channels",Al Mahdi TV PAK
+https://stream.al-mahdi.tv/hls/1234.m3u8
+#EXTINF:-1 tvg-id="ahlulbayt.co.uk" tvg-logo="https://shialivetv.com/shialive/assets/img/ahlulbayt.jpg" group-title="Shia Channels",Ahlulbayt TV UK
+https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ahlulbayt.co.uk" tvg-logo="https://i.imgur.com/jnh5x6M.png" group-title="Shia Channels",Ahlulbayt Documentaries
+https://cdn5.iqsat.net/iqb/df78ec671693778b3d40e1a160483dcb.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ahlulbayt.co.uk" tvg-logo="https://i.imgur.com/GRY3KkP.png" group-title="Shia Channels",Ahlulbayt Quran
+https://cdn5.iqsat.net/iqb/5a55d972f1d33b4cd2963da0371d8192.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ahlulbayt.co.uk" tvg-logo="https://i.imgur.com/tMZWPTp.png" group-title="Shia Channels",Ahlulbayt Reborn
+https://cdn5.iqsat.net/iqb/c9f03806c6224cf8567682d5a30eb66e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ahlebaittv.net" tvg-logo="https://shialivetv.com/shialive/assets/img/ahlebait.jpg" group-title="Shia Channels",Ahlebait TV UK
+https://stream.wpbond.com/live/ahlebait1.m3u8
+
+
+
+
+
+
+
