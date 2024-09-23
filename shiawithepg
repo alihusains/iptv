@@ -1,0 +1,33 @@
+#EXTM3U url-tvg="https://epg.best/23e82-uvhfbk.xml.gz" x-tvg-url="https://epg.best/23e82-uvhfbk.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt Quran" tvg-logo="" tvg-chno="14" channel-id="14" group-title="Shia Channels",Ahlulbayt Quran
+https://cdn5.iqsat.net/iqb/5a55d972f1d33b4cd2963da0371d8192.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt TV UK" tvg-logo="" tvg-chno="12" channel-id="12" group-title="Shia Channels",Ahlulbayt TV UK
+https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt Documentaries" tvg-logo="" tvg-chno="13" channel-id="13" group-title="Shia Channels",Ahlulbayt Documentaries
+https://cdn5.iqsat.net/iqb/df78ec671693778b3d40e1a160483dcb.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt Reborn" tvg-logo="" tvg-chno="15" channel-id="15" group-title="Shia Channels",Ahlulbayt Reborn
+https://cdn5.iqsat.net/iqb/c9f03806c6224cf8567682d5a30eb66e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Mahdi TV PAK" tvg-logo="" tvg-chno="11" channel-id="11" group-title="Shia Channels",Al Mahdi TV PAK
+https://stream.al-mahdi.tv/hls/1234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ali TV" tvg-logo="" tvg-chno="3" channel-id="3" group-title="Shia Channels",Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hadi TV URDU" tvg-logo="" tvg-chno="4" channel-id="4" group-title="Shia Channels",Hadi TV URDU
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hadi TV UK" tvg-logo="" tvg-chno="9" channel-id="9" group-title="Shia Channels",Hadi TV UK
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dua Channel UK" tvg-logo="" tvg-chno="10" channel-id="10" group-title="Shia Channels",Dua Channel UK
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zainabia TV" tvg-logo="" tvg-chno="2" channel-id="2" group-title="Shia Channels",Zainabia TV
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="AhlebaitTV.uk" tvg-name="Ahlebait TV UK" tvg-logo="https://static.epg.best/uk/AhlebaitTV.uk.png" tvg-chno="16" channel-id="16" group-title="Shia Channels",Ahlebait TV UK
+https://stream.wpbond.com/live/ahlebait1.m3u8
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Win TV" tvg-logo="https://static.epg.best/in/ChannelWIN.in.png" tvg-chno="1" channel-id="1" group-title="Shia Channels",Win TV
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="HidayatTV.uk" tvg-name="Hidayat TV" tvg-logo="https://static.epg.best/uk/HidayatTV.uk.png" tvg-chno="5" channel-id="5" group-title="Shia Channels",Hidayat TV
+https://stream.wpbond.com/live/hidayat1.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV News" tvg-logo="https://static.epg.best/ir/PressTV.ir.png" tvg-chno="6" channel-id="6" group-title="Shia Channels",Press TV News
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="S2 Press TV News" tvg-logo="https://static.epg.best/ir/PressTV.ir.png" tvg-chno="7" channel-id="7" group-title="Shia Channels",S2 Press TV News
+https://live3.presstv.ir/presstv/index.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV French" tvg-logo="https://static.epg.best/ir/PressTV.ir.png" tvg-chno="8" channel-id="8" group-title="News",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
