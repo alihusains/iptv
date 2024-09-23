@@ -9,7 +9,7 @@ https://alitv.livebox.co.in/alitvhls/live.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="Hidayat TV URDU" tvg-logo="https://shiachannel.in/livetv/img/channels/hidayat.jpg" group-title="Shia Channels",Hidayat TV
 https://stream.wpbond.com/live/hidayat1.m3u8
-#EXTINF:-1 tvg-id="Presstv.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="Shia Channels",Press TV News
+#EXTINF:-1 tvg-id="Presstv.cl" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="Shia Channels",Press TV News
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV Live Stream" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="Shia Channels", S2 Press TV News
 https://live3.presstv.ir/presstv/index.m3u8
