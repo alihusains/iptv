@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Channel WIN" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Zainabia Channel" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
+#EXTINF:-1 tvg-id="ZainabiaChannelhls" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
