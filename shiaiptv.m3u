@@ -3,7 +3,7 @@
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="zainabia" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
+#EXTINF:-1 tvg-id="Ali Tv" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
 #EXTINF:-1 tvg-id="Hadi TV URDU" tvg-logo="https://shiachannel.in/livetv/img/channels/haditv.jpg" group-title="Shia Channels",Ali TV
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
