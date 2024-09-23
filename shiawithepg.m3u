@@ -21,7 +21,7 @@ https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="AhlebaitTV.uk" tvg-name="Ahlebait TV UK" tvg-logo="https://static.epg.best/uk/AhlebaitTV.uk.png" tvg-chno="16" channel-id="16" group-title="Shia Channels",Ahlebait TV UK
 https://stream.wpbond.com/live/ahlebait1.m3u8
-#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Win TV" tvg-logo="https://static.epg.best/in/ChannelWIN.in.png" tvg-chno="1" channel-id="1" group-title="Shia Channels",Win TV
+#EXTINF:-1 tvg-id="Channel WIN" tvg-name="Win TV" tvg-logo="https://static.epg.best/in/ChannelWIN.in.png" tvg-chno="1" channel-id="1" group-title="Shia Channels",Win TV
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="HidayatTV.uk" tvg-name="Hidayat TV" tvg-logo="https://static.epg.best/uk/HidayatTV.uk.png" tvg-chno="5" channel-id="5" group-title="Shia Channels",Hidayat TV
 https://stream.wpbond.com/live/hidayat1.m3u8
